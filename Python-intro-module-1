@@ -40,3 +40,21 @@ Python is widely used across various domains, and its versatility and ease of us
   --------
       Python's combination of simplicity, powerful libraries, and a supportive community has made it an ideal choice for AI development. 
       Its wide adoption has also resulted in better tooling and integration with other AI technologies, making Python an essential language for anyone working in the field of AI.
+
+Installation of python:
+=======================
+Go to Python.org > choose the OS type, click on the link, it'll download the python.
+
+Verifying the python version on windows:
+----------------------------------------
+For verifying the current python version follow these below steps.
+Open the cmd prompt > py (or) python --version. 
+
+How to write the python code(Editors):
+--------------------------------------
+We can write python code using two ways 1) Write an python code using Notepad with .py extenetion 2) Write an python code using IDE(Integrated Development Environment)(recommended).
+
+
+
+
+
